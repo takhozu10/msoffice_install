@@ -26,7 +26,7 @@
 #
 #
 #
-# Written by: Tak Hozumi : End User Support Engineer : Big Lots Stores, Inc.
+# Written by: Tak Hozumi
 #
 # Created on: Dec 13, 2018
 # Modified on:
